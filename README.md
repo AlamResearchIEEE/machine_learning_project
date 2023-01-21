@@ -29,8 +29,8 @@ Clearly, our machine-learning models can predict diabetes and heart disease at t
 
 ## Contributors: 
 1. Abu Kowcher (2016-13-08)
-2. Rezaul Karim (2016-13-06)
-3. Md. Nurul Alam (2016-13-51)
+2. Md. Nurul Alam (2016-13-51)
+3. Rezaul Karim (2016-13-06) 
 
 ## Instructor:
 Md. Mynoddin, Lecturer, Dept. of CSE, RMSTU. 
